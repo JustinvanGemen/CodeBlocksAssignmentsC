@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484595351 source:c:\users\justin\desktop\school\l2\rend\c\les2\bmi calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
